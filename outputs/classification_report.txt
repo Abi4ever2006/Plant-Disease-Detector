@@ -1,0 +1,9 @@
+                                       precision    recall  f1-score   support
+
+Tomato__Tomato_YellowLeaf__Curl_Virus     0.9736    0.9537    0.9636      1123
+          Tomato__Tomato_mosaic_virus     1.0000    0.2976    0.4587       373
+                       Tomato_healthy     0.9534    0.9001    0.9260      1591
+
+                            micro avg     0.9635    0.8468    0.9014      3087
+                            macro avg     0.9757    0.7171    0.7827      3087
+                         weighted avg     0.9664    0.8468    0.8832      3087
